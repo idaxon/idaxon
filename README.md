@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! I’m Daksh Mishra, a data science and AI/ML enthusiast passionate about solving real-world and developer problems.  <br><br>Oh, and I’m building *Pitchx*—a platform where your skills do the talking, opportunities find you, and every pitch feels like magic. Stay tuned; the future’s about to get smarter! 😎</h3>
+<h3 align="center">Hi 👋! I’m Daksh Mishra, a data science and AI/ML enthusiast passionate about solving real-world and developer problems.  <br><br>Oh, and I’m building "Pitchx" —a platform where your skills do the talking, opportunities find you, and every pitch feels like magic. Stay tuned; the future’s about to get smarter! 😎</h3>
 
 ###
 
